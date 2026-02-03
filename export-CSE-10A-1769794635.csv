@@ -1,0 +1,2 @@
+login,name,tfa_enabled,tfa_level,tfa_required_by,is_public,role,last_active,saml_name_id,organization_roles_count
+EmmanuelJeffers,Emmanuel,true,insecure,,false,Owner,,,0
